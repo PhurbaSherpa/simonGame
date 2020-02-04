@@ -6,4 +6,5 @@ Being a person who loves games and problem solving, I'm glad this was the first 
 # Description
 A game where you must remeber the pattern of colors, every round a single color is shown which is added to the previous list of colors. The whole pattern isn't shown only the next color, so you MUST keep in mind of all the color. 
 
+<a href='https://phurbasherpa.github.io/simonGame/'>Live Link to Game</a>
 
